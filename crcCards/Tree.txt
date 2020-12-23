@@ -1,0 +1,15 @@
+Class name: Tree
+
+Parent class: Command
+
+Subclasses: None
+
+Responsibilities:
+* Displays a visual representation of the filesystem hierarchy, starting from the
+root directory (represented as a \) to the current working directory
+
+Collaborators:
+* CurrentWorkingDirectory
+* Directory
+* File
+* FileSystem

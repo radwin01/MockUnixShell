@@ -1,0 +1,20 @@
+Class name: Validation
+
+Parent class: None
+
+Subclasses: None
+
+Responsibilities:
+* Checks for the correct number command arguments
+* Creates command after checking validity
+* Checks for valid names of files/directories
+
+Collaborators: 
+* CurrentWorkingDirectory
+* Shell
+* FileSystem
+* UserTerminalIn
+* Command
+* InvalidCommandException;
+* TooLittleParametersException;
+* TooManyParametersException;

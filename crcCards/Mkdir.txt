@@ -1,0 +1,13 @@
+Class name: Mkdir
+
+Parent class: Command
+
+Subclasses: None
+
+Responsibilities:
+* Creates a new directory if name does not already exist in the designated directory path (can be an absolute or relative path)
+
+Collaborators: 
+* Directory
+* File
+* FilePath

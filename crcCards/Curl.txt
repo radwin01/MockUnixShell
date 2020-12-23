@@ -1,0 +1,14 @@
+Class name: curl
+
+Parent class: Command
+
+Subclasses: None
+
+Responsibilities:
+* Retrieves a text file from a specified URL and adds it (and its contents) to the current working directory 
+
+Collaborators:
+* CurrentWorkingDirectory
+* Directory
+* File
+* FileSystem

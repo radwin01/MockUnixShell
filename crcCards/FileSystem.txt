@@ -1,0 +1,13 @@
+Class name: FileSystem
+
+Parent class: None
+
+Subclasses: None
+
+Responsibilities:
+* Stores the name, size, path and date modified of all files and directories , as well as the file and directory hierarchy.
+* Allows the JavaShell to manage where files are stored.
+
+Collaborators:
+* File
+* Directory

@@ -1,0 +1,14 @@
+Class name: Echo
+
+Parent class: Command
+
+Subclasses: None
+
+Responsibilities:
+* Get writable string from user command line
+* Write string to output if not given redirection
+* Create redirection instance to overwrite/append to file if given symbol
+
+Collaborators:
+* File
+* Redirection

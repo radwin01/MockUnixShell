@@ -1,0 +1,16 @@
+Class name: Save
+
+Parent class: Command
+
+Subclasses: None
+
+Responsibilities:
+* Saves contents of the current file system session
+* Writes all contents formatted to a txt file on user's computer
+* Uses filepath and name provided by user on call
+
+Collaborators:
+* CurrentWorkingDirectory
+* FileSystem
+* File
+* Directory

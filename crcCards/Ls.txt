@@ -1,0 +1,18 @@
+Class name: Ls
+
+Parent class: Command
+
+Subclasses: None
+
+Responsibilities:
+* Lists the contents of given path directory
+* Lists given file path
+* Lists contents of current working directory
+* If -R is provided in the arguments, recursively lists all subdirectories
+
+Collaborators:
+* CurrentWorkingDirectory
+* Directory
+* File
+* FilePath
+* FileSystem

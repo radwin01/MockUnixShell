@@ -1,0 +1,12 @@
+Class name: MockCurrentWorkingDirectory
+
+Parent class: None
+
+Subclasses: None
+
+Responsibilities:
+* Substitutes for the real CurrentWorkingDirectory Object for use in testing
+
+Collaborators: 
+* CurrentWorkingDirectoryI
+* Directory

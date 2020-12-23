@@ -1,0 +1,12 @@
+Class name: MockFileSystem
+
+Parent class: None
+
+Subclasses: None
+
+Responsibilities:
+* Substitutes for the real FileSystem Object for use in testing
+
+Collaborators: 
+* Directory
+* FileSystemI

@@ -1,0 +1,14 @@
+Class name: Rm
+
+Parent class: Command
+
+Subclasses: None
+
+Responsibilities:
+* Removes directories from the filesystem.
+
+Collaborators:
+* CurrentWorkingDirectory
+* FilePath
+* Directory
+* FileSystem

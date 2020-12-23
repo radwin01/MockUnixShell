@@ -1,0 +1,16 @@
+Class name: Find
+
+Parent class: Command
+
+Subclasses: None
+
+Responsibilities:
+* Finds the directories or files with a specified name given a list
+of paths (relative or full) to search within.
+
+Collaborators:
+* CurrentWorkingDirectory
+* FilePath
+* FileSystem
+* File
+* Directory

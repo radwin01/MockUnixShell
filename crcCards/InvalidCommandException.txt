@@ -1,0 +1,12 @@
+Class name: InvalidCommandException
+
+Parent class: Exception
+
+Subclasses: None
+
+Responsibilities:
+* creates an exception used when the user passes an unknown command to the 
+terminal
+* returns error message to be printed to standard output
+
+Collaborators: None

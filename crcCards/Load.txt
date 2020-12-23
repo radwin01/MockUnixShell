@@ -1,0 +1,14 @@
+Class name: Load
+
+Parent class: Command
+
+Subclasses: None
+
+Responsibilities:
+* Loads contents of a given file
+* Opens given file and reads it
+* Adds all directories/files from previous file system to current session
+
+Collaborators: 
+* CurrentWorkingDirectory
+* FileSystem

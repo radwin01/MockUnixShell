@@ -1,0 +1,10 @@
+Class name: File
+
+Parent class: None
+
+Subclasses: None
+
+Responsibilities:
+* Holds data to be accessed in a file object
+	
+Collaborators: Directory

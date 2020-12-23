@@ -1,0 +1,10 @@
+Class name: Man
+
+Parent class: Command
+
+Subclasses: None
+
+Responsibilities:
+* Prints the manual page (aka the functionality) of a specified command
+
+Collaborators: Command

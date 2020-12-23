@@ -1,0 +1,12 @@
+Class name: UserTerminalIn
+
+Parent class: None
+
+Subclasses: None
+
+Responsibilities:
+* Accepts input from user
+* Command line completion based on user input
+* Records the previously entered commands
+
+Collaborators: Command

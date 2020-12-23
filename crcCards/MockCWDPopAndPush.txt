@@ -1,0 +1,13 @@
+Class name: MockCWDPopAndPush
+
+Parent class: None
+
+Subclasses: None
+
+Responsibilities:
+* Substitutes for the real CurrentWorkingDirectory Object for use in testing Pop and Push
+specifically
+
+Collaborators:
+* CurrentWorkingDirectoryI
+* Directory

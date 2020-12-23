@@ -1,0 +1,19 @@
+Class name: Command
+
+Parent class: None
+
+Subclasses: Cat, Cd, Cp, Curl, Echo, Exit, Find, History, Load, Ls, Man, Mkdir, Mv, Popd, Pushd, Pwd, Rm, Save, Speak, Tree
+
+Responsibilities:
+* Runs action of command according to command specifications
+* Sets/contains amount of parameters and types
+* Returns output
+* Provide command description
+
+Collaborators:
+* CurrentWorkingDirectory
+* File
+* FileSystem
+* Redirection
+* CurrentWorkingDirectoryI
+* FileSystemI

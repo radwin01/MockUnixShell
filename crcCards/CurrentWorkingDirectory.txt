@@ -1,0 +1,11 @@
+Class name: CurrentWorkingDirectory
+
+Parent class: None
+
+Subclasses: None
+
+Responsibilities:
+* Contains information regarding the current working directory and its full path
+* Changes current working directory to specified directory path
+
+Collaborators: Directory

@@ -1,0 +1,13 @@
+Class name: Directory
+
+Parent class: None
+
+Subclasses: None
+
+Responsibilities:
+* Contain other files/directories
+* Contain link to other files for access
+
+Collaborators: 
+* File
+* Validation

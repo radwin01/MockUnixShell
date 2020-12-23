@@ -1,0 +1,11 @@
+Class name: ItemList
+
+Parent class: None
+
+Subclasses: None
+
+Responsibilities:
+* Holds data in the form of an ArrayList given the type of the data.
+* Performs ArrayList operations.
+
+Collaborators: None

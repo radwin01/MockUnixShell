@@ -1,0 +1,19 @@
+Class name: Shell
+
+Parent class: None
+
+Subclasses: None
+
+Responsibilities:
+* Checks user permissions
+* Activates when terminal is opened
+* Deactivate and clears memory allocated to terminal 
+  processes when finished
+* Runs applications
+
+Collaborators: 
+* Command
+* CurrentWorkingDirectory
+* FileSystem
+* UserTerminalIn
+* Validation

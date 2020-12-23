@@ -1,0 +1,12 @@
+Class name: TooManyParametersException
+
+Parent class: Exception
+
+Subclasses: None
+
+Responsibilities:
+* creates an exception used when the user passes too many arguments to a 
+known command
+* returns error message to be printed to standard output
+
+Collaborators: None

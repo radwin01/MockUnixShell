@@ -1,0 +1,11 @@
+Class name: History
+
+Parent class: Command
+
+Subclasses: None
+
+Responsibilities:
+* Collects most recent commands by given parameter amount
+* Print the most recent command as given by parameter
+
+Collaborators: None

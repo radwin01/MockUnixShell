@@ -1,0 +1,11 @@
+Class name: FileSystemI
+
+Parent class: None
+
+Subclasses: None
+
+Responsibilities:
+* Contain and keep track of the directory that is the root
+* Check the path of a given file or directory
+
+Collaborators: Directory

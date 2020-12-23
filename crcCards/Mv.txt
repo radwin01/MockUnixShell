@@ -1,0 +1,13 @@
+Class name: Mv
+
+Parent class: Command
+
+Subclasses: None
+
+Responsibilities:
+* Transports files and directories from one directory to another
+* If the destination directory is the same as the source file/directory’s current directory, or the destination directory does not exist, renames the source file/directory to destination.
+
+Collaborators: 
+* Directory
+* File

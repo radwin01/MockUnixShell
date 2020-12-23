@@ -1,0 +1,15 @@
+Class name: Cd
+
+Parent class: Command
+
+Subclasses: None
+
+Responsibilities:
+* Changes the current working directory to destination directory. 
+* Changes directory based on absolute/relative path including dot representation
+
+Collaborators: 
+* CurrentWorkingDirectory
+* Directory
+* FilePath
+* FileSystem

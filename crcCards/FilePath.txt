@@ -1,0 +1,14 @@
+Class name: FilePath
+
+Parent class: None
+
+Subclasses: None
+
+Responsibilities:
+* Convert given path in dot representation to actual directory/path
+* Get the ending directory from a given path
+* Check validity and contents of path
+
+Collaborators: 
+* CurrentWorkingDirectory
+* Directory

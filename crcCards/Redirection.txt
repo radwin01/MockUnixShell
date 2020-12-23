@@ -1,0 +1,14 @@
+Class name: Redirection
+
+Parent class: None
+
+Subclasses: None
+
+Responsibilities:
+* Overwrites/appends given contents into a file
+* Creates a file if given name does not exists
+
+Collaborators: 
+* Directory
+* Validation
+* File

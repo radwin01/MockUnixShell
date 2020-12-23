@@ -1,0 +1,14 @@
+Class name: Speak
+
+Parent class: Command
+
+Subclasses: None
+
+Responsibilities:
+* Converts string arguments to audible speech until "QUIT” is entered by the user
+* Converts string in quotation marks to audible speech
+
+Collaborators: 
+* CurrentWorkingDirectory
+* FileSystem
+* UserTerminalIn

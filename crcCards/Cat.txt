@@ -1,0 +1,16 @@
+Class name: Cat
+
+Parent class: Command
+
+Subclasses: None
+
+Responsibilities:
+* Reads and/or concatenates data from one or more files 
+and prints their contents to standard output
+
+Collaborators: 
+* CurrentWorkingDirectory
+* Directory
+* File
+* FilePath
+* FileSystem

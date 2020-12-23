@@ -1,0 +1,13 @@
+Class name: CurrentWorkingDirectoryI
+
+Parent class: None
+
+Subclasses: None
+
+Responsibilities:
+* Keep track of the current working directory
+* Return string of directory
+* Set subdirectories by strings
+
+
+Collaborators: Directory

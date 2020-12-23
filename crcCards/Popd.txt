@@ -1,0 +1,15 @@
+Class name: Popd 
+
+Parent class: Command
+
+Subclasses: None
+
+Responsibilities:
+* Removes the top entry from the directory stack and changes current working directory into it
+
+Collaborators: 
+* CurrentWorkingDirectory
+* DirectoryStack
+* Directory
+* FileSystem
+* JShell

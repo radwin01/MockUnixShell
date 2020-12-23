@@ -1,0 +1,16 @@
+Class name: Pushd
+
+Parent class: Command
+
+Subclasses: None 
+
+Responsibilities:
+* Pushes the current working directory onto the directory stack (using LIFO
+behavior)
+* Changes the current working directory to the specified directory
+
+Collaborators: 
+* DirectoryStack
+* Directory
+* FilePath
+* JShell

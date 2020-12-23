@@ -1,0 +1,10 @@
+Class name: Exit
+
+Parent class: Command
+
+Subclasses: None
+
+Responsibilities:
+* Exits the program (terminates the console program)
+
+Collaborators: None

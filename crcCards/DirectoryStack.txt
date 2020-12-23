@@ -1,0 +1,10 @@
+Class name: DirectoryStack
+
+Parent class: None
+
+Subclasses: None
+
+Responsibilities:
+* Keeps a list of all the full paths of the directories within a stack
+
+Collaborators: Directory

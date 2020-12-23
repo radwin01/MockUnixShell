@@ -1,0 +1,16 @@
+Class name: Cp
+
+Parent class: Command
+
+Subclasses: None
+
+Responsibilities:
+* Copies one or more source files to the specified destination directory
+* Overwrites source file to destination file. If the file does not exist, creates the destination file and writes the source file’s contents to it.
+
+Collaborators:
+* CurrentWorkingDirectory
+* Directory
+* File
+* FilePath
+* FileSystem
